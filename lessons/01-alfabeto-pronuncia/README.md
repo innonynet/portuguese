@@ -10,37 +10,52 @@
 
 ポルトガル語のアルファベットは26文字。K, W, Y は外来語・固有名詞にのみ使う。
 
-| 文字 | 名称 | 代表音(IPA) | 例 | メモ |
+| 文字 | 名称 | 代表音(IPA) | 例(日本語訳) | メモ |
 |---|---|---|---|---|
-| A a | á | /a/, /ɐ/ | casa [ˈkazɐ] | 語末は曖昧な /ɐ/ になりやすい |
-| B b | bê | /b/ | bola [ˈbɔlɐ] | |
-| C c | cê | /k/, /s/ | casa [ˈkazɐ], cinco [ˈsĩku] | e, i の前で /s/ |
-| Ç ç | cê cedilha | /s/ | moço [ˈmosu] | a, o, u の前で /s/ を表す専用字 |
-| D d | dê | /d/, [dʒ] | dado [ˈdadu], dia [ˈdʒiɐ] | ブラジル式は e, i の前で「ヂ」寄り |
-| E e | é | /ɛ/, /e/, /i/ | café [kaˈfɛ] | 語末の e は「イ」寄りに弱まる |
-| F f | efe | /f/ | faca [ˈfakɐ] | |
-| G g | gê | /g/, /ʒ/ | gato [ˈɡatu], gelo [ˈʒelu] | e, i の前で /ʒ/(フランス語のjに近い) |
-| H h | agá | (無音) | hora [ˈɔɾɐ] | 単独では発音しない |
-| I i | i | /i/ | vida [ˈvidɐ] | |
-| J j | jota | /ʒ/ | já [ʒa] | |
-| K k | cá | /k/ | kilo | 外来語のみ |
-| L l | ele | /l/, [w] | livro [ˈlivɾu], Brasil [bɾaˈziw] | 語末・音節末は「ウ」寄りの [w] になる |
-| M m | eme | /m/ | mesa [ˈmezɐ] | 語末では鼻音化の合図(音自体は発音しない) |
-| N n | ene | /n/ | nada [ˈnadɐ] | |
-| O o | ó | /ɔ/, /o/, /u/ | avô [aˈvo] | 語末の o は「ウ」寄りに弱まる |
-| P p | pê | /p/ | pai [paj] | |
-| Q q | quê | /k/ | queijo [ˈkejʒu] | 常に qu の形で使う |
-| R r | erre | [h]〜[x], [ɾ] | rato [ˈhatu], caro [ˈkaɾu] | 語頭・rr は「ハ行」寄り、語中1つの r は弾き音 |
-| S s | esse | /s/, /z/ | sol [sɔw], casa [ˈkazɐ] | 母音に挟まれると /z/ |
-| T t | tê | /t/, [tʃ] | tato [ˈtatu], tio [ˈtʃiu] | ブラジル式は e, i の前で「チ」寄り |
-| U u | u | /u/ | uva [ˈuvɐ] | |
-| V v | vê | /v/ | vaca [ˈvakɐ] | |
+| A a | á | /a/, /ɐ/ | casa [ˈkazɐ]「家」 | 語末は曖昧な /ɐ/ になりやすい |
+| B b | bê | /b/ | bola [ˈbɔlɐ]「ボール」 | |
+| C c | cê | /k/, /s/ | casa [ˈkazɐ]「家」, cinco [ˈsĩku]「5」 | e, i の前で /s/ |
+| Ç ç | cê cedilha | /s/ | moço [ˈmosu]「若者(男)」 | a, o, u の前で /s/ を表す専用字 |
+| D d | dê | /d/, [dʒ] | dado [ˈdadu]「サイコロ」, dia [ˈdʒiɐ]「日」 | ブラジル式は e, i の前で「ヂ」寄り |
+| E e | é | /ɛ/, /e/, /i/ | café [kaˈfɛ]「コーヒー」 | 語末の e は「イ」寄りに弱まる |
+| F f | efe | /f/ | faca [ˈfakɐ]「ナイフ」 | |
+| G g | gê | /g/, /ʒ/ | gato [ˈɡatu]「猫」, gelo [ˈʒelu]「氷」 | e, i の前で /ʒ/(フランス語のjに近い) |
+| H h | agá | (無音) | hora [ˈɔɾɐ]「時間」 | 単独では発音しない |
+| I i | i | /i/ | vida [ˈvidɐ]「人生」 | |
+| J j | jota | /ʒ/ | já [ʒa]「すでに」 | |
+| K k | cá | /k/ | kilo「キロ」 | 外来語のみ |
+| L l | ele | /l/, [w] | livro [ˈlivɾu]「本」, Brasil [bɾaˈziw]「ブラジル」 | 語末・音節末は「ウ」寄りの [w] になる |
+| M m | eme | /m/ | mesa [ˈmezɐ]「テーブル」 | 語末では鼻音化の合図(音自体は発音しない) |
+| N n | ene | /n/ | nada [ˈnadɐ]「何もないこと」 | |
+| O o | ó | /ɔ/, /o/, /u/ | avô [aˈvo]「祖父」 | 語末の o は「ウ」寄りに弱まる |
+| P p | pê | /p/ | pai [paj]「父」 | |
+| Q q | quê | /k/ | queijo [ˈkejʒu]「チーズ」 | 常に qu の形で使う |
+| R r | erre | [h]〜[x], [ɾ] | rato [ˈhatu]「ねずみ」, caro [ˈkaɾu]「高価な」 | 語頭・rr は「ハ行」寄り、語中1つの r は弾き音 |
+| S s | esse | /s/, /z/ | sol [sɔw]「太陽」, casa [ˈkazɐ]「家」 | 母音に挟まれると /z/ |
+| T t | tê | /t/, [tʃ] | tato [ˈtatu]「触覚」, tio [ˈtʃiu]「叔父」 | ブラジル式は e, i の前で「チ」寄り |
+| U u | u | /u/ | uva [ˈuvɐ]「ぶどう」 | |
+| V v | vê | /v/ | vaca [ˈvakɐ]「牛」 | |
 | W w | dábliu | /w/, /v/ | | 外来語のみ |
-| X x | xis | /ʃ/, /ks/, /z/, /s/ | xícara [ˈʃikaɾɐ] | 文脈により4通りの音がある |
+| X x | xis | /ʃ/, /ks/, /z/, /s/ | xícara [ˈʃikaɾɐ]「カップ」 | 文脈により4通りの音がある |
 | Y y | ípsilon | /i/ | | 外来語のみ |
-| Z z | zê | /z/ | zero [ˈzɛɾu] | |
+| Z z | zê | /z/ | zero [ˈzɛɾu]「ゼロ」 | |
 
-## 2. 特に注意すべき音
+## 2. アクセント記号(発音区別符号)
+
+agudo・circunflexo・til・grave の4つは母音(a, e, i, o, u)の上につき、アクセントの位置・母音の開き具合・鼻音化を表す。cedilha だけは例外で、子音 c の下につき音を変える。
+
+| 記号 | 名称 | 働き | 例 |
+| --- | --- | --- | --- |
+| ´ | acento agudo(アグード) | アクセントのある開いた母音を示す | café [kaˈfɛ]「コーヒー」, água [ˈaɡwɐ]「水」 |
+| ^ | acento circunflexo(シルクンフレクソ) | アクセントのある閉じた母音を示す | você [voˈse]「あなた」, avô [aˈvo]「祖父」 |
+| ~ | til(チゥ) | 母音を鼻音化する | mão [mɐ̃w̃]「手」, irmã [iʁˈmɐ̃]「姉妹」 |
+| ` | acento grave(グラーヴィ) | 前置詞 a + 定冠詞 a の縮約(クラーズィ)を示す。アクセントの強弱は変えない | à tarde [a ˈtaɾdʒi]「午後に」 |
+| ¸ | cedilha(セジーリャ) | ç の下につき、a/o/u の前でも /s/ と読ませる | moço [ˈmosu]「若者」 |
+
+- アクセント記号がついた音節が sílaba tônica(アクセントのある音節)になる。
+- 記号がない単語は、決まった規則(語末の文字などで判定)でアクセント位置が決まる。詳しい規則は別レッスンで扱う。
+
+## 3. 特に注意すべき音
 
 日本語話者がつまずきやすい音を優先的に挙げる。
 
