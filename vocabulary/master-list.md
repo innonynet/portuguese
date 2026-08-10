@@ -93,3 +93,84 @@
 | fome | [ˈfɔmi] | 空腹 | [06](../lessons/06-verbo-estar-lugar/vocabulary.md) |
 | quente | [ˈkẽtʃi] | 熱い | [06](../lessons/06-verbo-estar-lugar/vocabulary.md) |
 | reunião | [ʁewniˈɐ̃w̃] | 会議 | [06](../lessons/06-verbo-estar-lugar/vocabulary.md) |
+
+## レッスン07: 数字・年齢・値段
+
+| ポルトガル語 | IPA | 日本語 | 出典 |
+| --- | --- | --- | --- |
+| zero〜cem | [ˈzɛɾu]〜[sẽj] | 0〜100の基数詞 | [07](../lessons/07-numeros-idade-precos/vocabulary.md) |
+| ano | [ˈɐnu] | 年/歳 | [07](../lessons/07-numeros-idade-precos/vocabulary.md) |
+| Quantos anos você tem? | [ˈkwɐ̃tus ˈɐnus voˈse tẽj] | あなたは何歳ですか | [07](../lessons/07-numeros-idade-precos/vocabulary.md) |
+| Quanto custa? | [ˈkwɐ̃tu ˈkustɐ] | いくらですか | [07](../lessons/07-numeros-idade-precos/vocabulary.md) |
+| real / reais | [ʁeˈaw] / [ʁeˈajs] | レアル(通貨) | [07](../lessons/07-numeros-idade-precos/vocabulary.md) |
+
+## レッスン08: 疑問詞と疑問文
+
+| ポルトガル語 | IPA | 日本語 | 出典 |
+| --- | --- | --- | --- |
+| O que | [u ki] | 何 | [08](../lessons/08-perguntas-interrogativos/vocabulary.md) |
+| Quem | [kẽj] | 誰 | [08](../lessons/08-perguntas-interrogativos/vocabulary.md) |
+| Qual | [kwaw] | どれ | [08](../lessons/08-perguntas-interrogativos/vocabulary.md) |
+| Onde | [ˈõdʒi] | どこ | [08](../lessons/08-perguntas-interrogativos/vocabulary.md) |
+| Quando | [ˈkwɐ̃du] | いつ | [08](../lessons/08-perguntas-interrogativos/vocabulary.md) |
+| Como | [ˈkomu] | どのように | [08](../lessons/08-perguntas-interrogativos/vocabulary.md) |
+| Por que | [poɾ ˈke] | なぜ | [08](../lessons/08-perguntas-interrogativos/vocabulary.md) |
+| Quanto | [ˈkwɐ̃tu] | どれくらい | [08](../lessons/08-perguntas-interrogativos/vocabulary.md) |
+| morar | [moˈɾaɾ] | 住む | [08](../lessons/08-perguntas-interrogativos/vocabulary.md) |
+| banheiro | [bɐˈɲejɾu] | トイレ | [08](../lessons/08-perguntas-interrogativos/vocabulary.md) |
+
+## レッスン09: 規則動詞の現在形
+
+| ポルトガル語 | IPA | 日本語 | 出典 |
+| --- | --- | --- | --- |
+| falar | [faˈlaɾ] | 話す | [09](../lessons/09-verbos-regulares-presente/vocabulary.md) |
+| comer | [koˈmeɾ] | 食べる | [09](../lessons/09-verbos-regulares-presente/vocabulary.md) |
+| abrir | [aˈbɾiɾ] | 開ける | [09](../lessons/09-verbos-regulares-presente/vocabulary.md) |
+| estudar | [estuˈdaɾ] | 勉強する | [09](../lessons/09-verbos-regulares-presente/vocabulary.md) |
+| trabalhar | [tɾabaˈʎaɾ] | 働く | [09](../lessons/09-verbos-regulares-presente/vocabulary.md) |
+| comprar | [kõˈpɾaɾ] | 買う | [09](../lessons/09-verbos-regulares-presente/vocabulary.md) |
+| gostar (de) | [ɡosˈtaɾ] | 好きだ | [09](../lessons/09-verbos-regulares-presente/vocabulary.md) |
+| vender | [vẽˈdeɾ] | 売る | [09](../lessons/09-verbos-regulares-presente/vocabulary.md) |
+| aprender | [apɾẽˈdeɾ] | 学ぶ | [09](../lessons/09-verbos-regulares-presente/vocabulary.md) |
+| partir | [paɾˈtʃiɾ] | 出発する | [09](../lessons/09-verbos-regulares-presente/vocabulary.md) |
+| assistir | [asisˈtʃiɾ] | 見る(番組など) | [09](../lessons/09-verbos-regulares-presente/vocabulary.md) |
+
+## レッスン10: 主な不規則動詞
+
+| ポルトガル語 | IPA | 日本語 | 出典 |
+| --- | --- | --- | --- |
+| ir | [iɾ] | 行く | [10](../lessons/10-verbos-irregulares-comuns/vocabulary.md) |
+| ter | [teɾ] | 持つ | [10](../lessons/10-verbos-irregulares-comuns/vocabulary.md) |
+| fazer | [faˈzeɾ] | する/作る | [10](../lessons/10-verbos-irregulares-comuns/vocabulary.md) |
+| poder | [poˈdeɾ] | できる | [10](../lessons/10-verbos-irregulares-comuns/vocabulary.md) |
+| querer | [keˈɾeɾ] | 欲しい/したい | [10](../lessons/10-verbos-irregulares-comuns/vocabulary.md) |
+| ajudar | [aʒuˈdaɾ] | 手伝う | [10](../lessons/10-verbos-irregulares-comuns/vocabulary.md) |
+| viajar | [vjaˈʒaɾ] | 旅行する | [10](../lessons/10-verbos-irregulares-comuns/vocabulary.md) |
+| lição de casa | [liˈsɐ̃w̃ dʒi ˈkazɐ] | 宿題 | [10](../lessons/10-verbos-irregulares-comuns/vocabulary.md) |
+| filho / filha | [ˈfiʎu] / [ˈfiʎɐ] | 息子/娘 | [10](../lessons/10-verbos-irregulares-comuns/vocabulary.md) |
+
+## レッスン11: 形容詞と所有詞
+
+| ポルトガル語 | IPA | 日本語 | 出典 |
+| --- | --- | --- | --- |
+| vermelho / vermelha | [veɾˈmeʎu] / [veɾˈmeʎɐ] | 赤い | [11](../lessons/11-adjetivos-possessivos/vocabulary.md) |
+| bom / boa | [bõ] / [ˈboɐ] | 良い | [11](../lessons/11-adjetivos-possessivos/vocabulary.md) |
+| grande | [ˈɡɾɐ̃dʒi] | 大きい/偉大な | [11](../lessons/11-adjetivos-possessivos/vocabulary.md) |
+| pequeno / pequena | [peˈkenu] / [peˈkenɐ] | 小さい | [11](../lessons/11-adjetivos-possessivos/vocabulary.md) |
+| simpático / simpática | [sĩˈpatʃiku] / [sĩˈpatʃikɐ] | 親切な | [11](../lessons/11-adjetivos-possessivos/vocabulary.md) |
+| meu / minha | [mew] / [ˈmiɲɐ] | 私の | [11](../lessons/11-adjetivos-possessivos/vocabulary.md) |
+| seu / sua | [sew] / [ˈsuɐ] | あなたの/彼の/彼女の | [11](../lessons/11-adjetivos-possessivos/vocabulary.md) |
+| nosso / nossa | [ˈnɔsu] / [ˈnɔsɐ] | 私たちの | [11](../lessons/11-adjetivos-possessivos/vocabulary.md) |
+
+## レッスン12: 前置詞と縮約形
+
+| ポルトガル語 | IPA | 日本語 | 出典 |
+| --- | --- | --- | --- |
+| vir | [viɾ] | 来る | [12](../lessons/12-preposicoes-contracoes/vocabulary.md) |
+| passear | [paˈsjaɾ] | 散歩する | [12](../lessons/12-preposicoes-contracoes/vocabulary.md) |
+| praia | [ˈpɾajɐ] | 浜辺 | [12](../lessons/12-preposicoes-contracoes/vocabulary.md) |
+| presente | [pɾeˈzẽtʃi] | プレゼント | [12](../lessons/12-preposicoes-contracoes/vocabulary.md) |
+| trocar | [tɾoˈkaɾ] | 交換する | [12](../lessons/12-preposicoes-contracoes/vocabulary.md) |
+| precisar (de) | [pɾesiˈzaɾ] | 必要とする | [12](../lessons/12-preposicoes-contracoes/vocabulary.md) |
+| mãe | [mɐ̃j̃] | 母 | [12](../lessons/12-preposicoes-contracoes/vocabulary.md) |
+| computador | [kõputaˈdoɾ] | コンピューター | [12](../lessons/12-preposicoes-contracoes/vocabulary.md) |
