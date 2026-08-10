@@ -174,3 +174,84 @@
 | precisar (de) | [pɾesiˈzaɾ] | 必要とする | [12](../lessons/12-preposicoes-contracoes/vocabulary.md) |
 | mãe | [mɐ̃j̃] | 母 | [12](../lessons/12-preposicoes-contracoes/vocabulary.md) |
 | computador | [kõputaˈdoɾ] | コンピューター | [12](../lessons/12-preposicoes-contracoes/vocabulary.md) |
+
+## レッスン13: 時間・曜日・月・天気
+
+| ポルトガル語 | IPA | 日本語 | 出典 |
+| --- | --- | --- | --- |
+| hora | [ˈɔɾɐ] | 時間/〜時 | [13](../lessons/13-tempo-dias-meses-clima/vocabulary.md) |
+| meia | [ˈmejɐ] | 半分 | [13](../lessons/13-tempo-dias-meses-clima/vocabulary.md) |
+| tempo | [ˈtẽpu] | 天気/時間 | [13](../lessons/13-tempo-dias-meses-clima/vocabulary.md) |
+| sol | [sɔw] | 太陽 | [13](../lessons/13-tempo-dias-meses-clima/vocabulary.md) |
+| chover | [ʃoˈveɾ] | 雨が降る | [13](../lessons/13-tempo-dias-meses-clima/vocabulary.md) |
+| nublado | [nuˈbladu] | 曇りの | [13](../lessons/13-tempo-dias-meses-clima/vocabulary.md) |
+| aniversário | [anivɛɾˈsaɾju] | 誕生日 | [13](../lessons/13-tempo-dias-meses-clima/vocabulary.md) |
+
+## レッスン14: 家族
+
+| ポルトガル語 | IPA | 日本語 | 出典 |
+| --- | --- | --- | --- |
+| pai | [paj] | 父 | [14](../lessons/14-familia/vocabulary.md) |
+| mãe | [mɐ̃j̃] | 母 | [14](../lessons/14-familia/vocabulary.md) |
+| marido | [maˈɾidu] | 夫 | [14](../lessons/14-familia/vocabulary.md) |
+| esposa | [esˈpozɐ] | 妻 | [14](../lessons/14-familia/vocabulary.md) |
+| avô / avó | [aˈvo] / [aˈvɔ] | 祖父/祖母 | [14](../lessons/14-familia/vocabulary.md) |
+| tio / tia | [ˈtʃiu] / [ˈtʃiɐ] | 叔父/叔母 | [14](../lessons/14-familia/vocabulary.md) |
+| primo / prima | [ˈpɾimu] / [ˈpɾimɐ] | いとこ | [14](../lessons/14-familia/vocabulary.md) |
+| família | [faˈmiljɐ] | 家族 | [14](../lessons/14-familia/vocabulary.md) |
+
+## レッスン15: 食事・レストラン
+
+| ポルトガル語 | IPA | 日本語 | 出典 |
+| --- | --- | --- | --- |
+| almoço | [awˈmosu] | 昼食 | [15](../lessons/15-comida-restaurante/vocabulary.md) |
+| jantar | [ʒɐ̃ˈtaɾ] | 夕食 | [15](../lessons/15-comida-restaurante/vocabulary.md) |
+| carne | [ˈkaɾni] | 肉 | [15](../lessons/15-comida-restaurante/vocabulary.md) |
+| peixe | [ˈpejʃi] | 魚 | [15](../lessons/15-comida-restaurante/vocabulary.md) |
+| salada | [saˈladɐ] | サラダ | [15](../lessons/15-comida-restaurante/vocabulary.md) |
+| suco | [ˈsuku] | ジュース | [15](../lessons/15-comida-restaurante/vocabulary.md) |
+| cardápio | [kaɾˈdapju] | メニュー | [15](../lessons/15-comida-restaurante/vocabulary.md) |
+| conta | [ˈkõtɐ] | 会計 | [15](../lessons/15-comida-restaurante/vocabulary.md) |
+| garçom | [ɡaɾˈsõ] | ウェイター | [15](../lessons/15-comida-restaurante/vocabulary.md) |
+
+## レッスン16: 買い物・数量表現
+
+| ポルトガル語 | IPA | 日本語 | 出典 |
+| --- | --- | --- | --- |
+| cor | [koɾ] | 色 | [16](../lessons/16-compras-quantidades/vocabulary.md) |
+| tamanho | [taˈmɐɲu] | サイズ | [16](../lessons/16-compras-quantidades/vocabulary.md) |
+| muito / muita | [ˈmũjtu] / [ˈmũjtɐ] | たくさんの | [16](../lessons/16-compras-quantidades/vocabulary.md) |
+| pouco / pouca | [ˈpoku] / [ˈpokɐ] | 少しの | [16](../lessons/16-compras-quantidades/vocabulary.md) |
+| algum / alguma | [awˈɡũ] / [awˈɡumɐ] | いくつかの | [16](../lessons/16-compras-quantidades/vocabulary.md) |
+| nenhum / nenhuma | [neˈɲũ] / [neˈɲumɐ] | 全く〜ない | [16](../lessons/16-compras-quantidades/vocabulary.md) |
+| todo / toda | [ˈtodu] / [ˈtodɐ] | すべての | [16](../lessons/16-compras-quantidades/vocabulary.md) |
+| barato / barata | [baˈɾatu] / [baˈɾatɐ] | 安い | [16](../lessons/16-compras-quantidades/vocabulary.md) |
+| loja | [ˈlɔʒɐ] | 店 | [16](../lessons/16-compras-quantidades/vocabulary.md) |
+
+## レッスン17: 道案内・交通手段
+
+| ポルトガル語 | IPA | 日本語 | 出典 |
+| --- | --- | --- | --- |
+| estação | [estaˈsɐ̃w̃] | 駅 | [17](../lessons/17-direcoes-transporte/vocabulary.md) |
+| perto | [ˈpeɾtu] | 近い | [17](../lessons/17-direcoes-transporte/vocabulary.md) |
+| longe | [ˈlõʒi] | 遠い | [17](../lessons/17-direcoes-transporte/vocabulary.md) |
+| direita | [dʒiˈɾejtɐ] | 右 | [17](../lessons/17-direcoes-transporte/vocabulary.md) |
+| esquerda | [esˈkeɾdɐ] | 左 | [17](../lessons/17-direcoes-transporte/vocabulary.md) |
+| trem | [ˈtɾẽj] | 電車 | [17](../lessons/17-direcoes-transporte/vocabulary.md) |
+| metrô | [meˈtɾo] | 地下鉄 | [17](../lessons/17-direcoes-transporte/vocabulary.md) |
+| avião | [aviˈɐ̃w̃] | 飛行機 | [17](../lessons/17-direcoes-transporte/vocabulary.md) |
+| aeroporto | [aeɾoˈpoɾtu] | 空港 | [17](../lessons/17-direcoes-transporte/vocabulary.md) |
+
+## レッスン18: 日課・頻度副詞・体調表現
+
+| ポルトガル語 | IPA | 日本語 | 出典 |
+| --- | --- | --- | --- |
+| acordar | [akoɾˈdaɾ] | 目覚める | [18](../lessons/18-rotina-frequencia-saude/vocabulary.md) |
+| levantar-se | [levɐ̃ˈtaɾ si] | 起きる | [18](../lessons/18-rotina-frequencia-saude/vocabulary.md) |
+| dormir | [doɾˈmiɾ] | 眠る | [18](../lessons/18-rotina-frequencia-saude/vocabulary.md) |
+| sempre | [ˈsẽpɾi] | いつも | [18](../lessons/18-rotina-frequencia-saude/vocabulary.md) |
+| às vezes | [az ˈvezis] | 時々 | [18](../lessons/18-rotina-frequencia-saude/vocabulary.md) |
+| nunca | [ˈnũkɐ] | 決して〜ない | [18](../lessons/18-rotina-frequencia-saude/vocabulary.md) |
+| dor | [doɾ] | 痛み | [18](../lessons/18-rotina-frequencia-saude/vocabulary.md) |
+| gripado / gripada | [ɡɾiˈpadu] / [ɡɾiˈpadɐ] | 風邪をひいた | [18](../lessons/18-rotina-frequencia-saude/vocabulary.md) |
+| médico / médica | [ˈmɛdʒiku] / [ˈmɛdʒikɐ] | 医者 | [18](../lessons/18-rotina-frequencia-saude/vocabulary.md) |
