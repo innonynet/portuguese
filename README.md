@@ -57,3 +57,4 @@
 ## 単語帳
 
 - [累積単語帳（全レッスン共通）](vocabulary/master-list.md)
+- [頻出語彙リスト（一般5000語 + IT用語300語）](vocabulario-frequente/README.md) — 発音・意味・例文と和訳・注意点付きの辞書形式リスト
