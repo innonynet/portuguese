@@ -255,3 +255,60 @@
 | dor | [doɾ] | 痛み | [18](../lessons/18-rotina-frequencia-saude/vocabulary.md) |
 | gripado / gripada | [ɡɾiˈpadu] / [ɡɾiˈpadɐ] | 風邪をひいた | [18](../lessons/18-rotina-frequencia-saude/vocabulary.md) |
 | médico / médica | [ˈmɛdʒiku] / [ˈmɛdʒikɐ] | 医者 | [18](../lessons/18-rotina-frequencia-saude/vocabulary.md) |
+
+## レッスン19: 過去形(規則動詞)
+
+| ポルトガル語 | IPA | 日本語 | 出典 |
+| --- | --- | --- | --- |
+| ontem | [ˈõtẽj] | 昨日 | [19](../lessons/19-preterito-perfeito-regular/vocabulary.md) |
+| anteontem | [ɐ̃tʃiˈõtẽj] | 一昨日 | [19](../lessons/19-preterito-perfeito-regular/vocabulary.md) |
+| semana passada | [seˈmɐnɐ paˈsadɐ] | 先週 | [19](../lessons/19-preterito-perfeito-regular/vocabulary.md) |
+| prova | [ˈpɾɔvɐ] | 試験 | [19](../lessons/19-preterito-perfeito-regular/vocabulary.md) |
+| restaurante | [hestawˈɾɐ̃tʃi] | レストラン | [19](../lessons/19-preterito-perfeito-regular/vocabulary.md) |
+
+## レッスン20: 過去形(不規則動詞)
+
+| ポルトガル語 | IPA | 日本語 | 出典 |
+| --- | --- | --- | --- |
+| viagem | [viˈaʒẽj] | 旅行 | [20](../lessons/20-preterito-perfeito-irregular/vocabulary.md) |
+| incrível | [ĩˈkɾivew] | 素晴らしい | [20](../lessons/20-preterito-perfeito-irregular/vocabulary.md) |
+| problema | [pɾoˈblemɐ] | 問題 | [20](../lessons/20-preterito-perfeito-irregular/vocabulary.md) |
+
+## レッスン21: 不完了過去
+
+| ポルトガル語 | IPA | 日本語 | 出典 |
+| --- | --- | --- | --- |
+| criança | [kɾiˈɐ̃sɐ] | 子供 | [21](../lessons/21-preterito-imperfeito/vocabulary.md) |
+| futebol | [futʃiˈbɔw] | サッカー | [21](../lessons/21-preterito-imperfeito/vocabulary.md) |
+| interior | [ĩteɾiˈoɾ] | 田舎 | [21](../lessons/21-preterito-imperfeito/vocabulary.md) |
+| cachorro | [kaˈʃohu] | 犬 | [21](../lessons/21-preterito-imperfeito/vocabulary.md) |
+| época | [ˈɛpokɐ] | 時代/頃 | [21](../lessons/21-preterito-imperfeito/vocabulary.md) |
+
+## レッスン22: 未来形
+
+| ポルトガル語 | IPA | 日本語 | 出典 |
+| --- | --- | --- | --- |
+| dizer | [dʒiˈzeɾ] | 言う | [22](../lessons/22-futuro/vocabulary.md) |
+| trazer | [tɾaˈzeɾ] | 持ってくる | [22](../lessons/22-futuro/vocabulary.md) |
+| melhor | [meˈʎɔɾ] | より良い/最善 | [22](../lessons/22-futuro/vocabulary.md) |
+| futuro | [fuˈtuɾu] | 未来 | [22](../lessons/22-futuro/vocabulary.md) |
+
+## レッスン23: 命令法・進行形
+
+| ポルトガル語 | IPA | 日本語 | 出典 |
+| --- | --- | --- | --- |
+| devagar | [devaˈɡaɾ] | ゆっくり | [23](../lessons/23-imperativo-gerundio/vocabulary.md) |
+| porta | [ˈpɔɾtɐ] | ドア | [23](../lessons/23-imperativo-gerundio/vocabulary.md) |
+| esperar | [espeˈɾaɾ] | 待つ | [23](../lessons/23-imperativo-gerundio/vocabulary.md) |
+| preocupar-se | [pɾeokuˈpaɾ si] | 心配する | [23](../lessons/23-imperativo-gerundio/vocabulary.md) |
+
+## レッスン24: 比較級・最上級
+
+| ポルトガル語 | IPA | 日本語 | 出典 |
+| --- | --- | --- | --- |
+| melhor | [meˈʎɔɾ] | より良い | [24](../lessons/24-comparativo-superlativo/vocabulary.md) |
+| pior | [ˈpjoɾ] | より悪い | [24](../lessons/24-comparativo-superlativo/vocabulary.md) |
+| maior | [majˈoɾ] | より大きい | [24](../lessons/24-comparativo-superlativo/vocabulary.md) |
+| menor | [menˈoɾ] | より小さい | [24](../lessons/24-comparativo-superlativo/vocabulary.md) |
+| lindo / linda | [ˈlĩdu] / [ˈlĩdɐ] | 美しい | [24](../lessons/24-comparativo-superlativo/vocabulary.md) |
+| interessante | [ĩteɾeˈsɐ̃tʃi] | 面白い | [24](../lessons/24-comparativo-superlativo/vocabulary.md) |
