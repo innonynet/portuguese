@@ -261,6 +261,12 @@ function QuestionCard({ question, onAnswer, selected, revealed }) {
   const promptText = direction === "w2m" ? item.word : item.meaning;
   const isWordPrompt = direction === "w2m";
 
+  useEffect(() => {
+    if (isWordPrompt) {
+      speak(item.word);
+    }
+  }, [item.word, isWordPrompt]);
+
   return (
     <div className="mp-card">
       <div className="mp-card-kicker">{isWordPrompt ? "この単語の意味は？" : "この意味の単語は？"}</div>
