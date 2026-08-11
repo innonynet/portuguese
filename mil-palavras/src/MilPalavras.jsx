@@ -209,9 +209,9 @@ function HomeScreen({ progress, onStart }) {
       <div className="mp-tile-corner mp-tile-tl" aria-hidden="true" />
       <div className="mp-tile-corner mp-tile-tr" aria-hidden="true" />
       <header className="mp-home-header">
-        <p className="mp-eyebrow">Português para o dia a dia</p>
+        <p className="mp-eyebrow">Português para o dia a dia（日々のポルトガル語）</p>
         <h1 className="mp-title">Mil Palavras</h1>
-        <p className="mp-subtitle">頻出ポルトガル語5000語+IT用語300語を、意味と単語のクイズで覚える</p>
+        <p className="mp-subtitle">「Mil Palavras」は「千の言葉」という意味。頻出ポルトガル語5000語+IT用語300語を、意味と単語のクイズで覚える</p>
       </header>
 
       <div className="mp-stat-row">
