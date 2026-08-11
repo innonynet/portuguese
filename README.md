@@ -58,3 +58,4 @@
 
 - [累積単語帳（全レッスン共通）](vocabulary/master-list.md)
 - [頻出語彙リスト（一般5000語 + IT用語300語）](vocabulario-frequente/README.md) — 発音・意味・例文と和訳・注意点付きの辞書形式リスト
+- [Mil Palavras（単語クイズアプリ）](https://portuguese.innospot.net) — 頻出語彙5300語を意味↔単語の4択クイズと発音読み上げで復習できるWebアプリ（[ソース](mil-palavras/)）
