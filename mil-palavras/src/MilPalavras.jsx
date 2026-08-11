@@ -301,7 +301,12 @@ function QuestionCard({ question, onAnswer, selected, revealed }) {
 }
 
 function RevealPanel({ question, correct, onNext, isLast }) {
-  const { item } = question;
+  const { item, direction } = question;
+  useEffect(() => {
+    if (direction === "m2w") {
+      speak(item.word);
+    }
+  }, [item.word, direction]);
   return (
     <div className={`mp-reveal ${correct ? "is-correct" : "is-wrong"}`}>
       <div className="mp-reveal-head">
