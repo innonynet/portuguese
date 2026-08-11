@@ -563,6 +563,7 @@ function MilPalavrasStyles() {
         --mp-line: #DDE6E2;
         font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
         color: var(--mp-ink);
+        width: 100%;
         max-width: 480px;
         margin: 0 auto;
         background: var(--mp-bg);
