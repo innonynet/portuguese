@@ -530,8 +530,8 @@ function MilPalavrasStyles() {
   return (
     <style>{`
       .mp-root {
-        --mp-bg: #F4F7F5;
-        --mp-surface: #FFFFFF;
+        --mp-bg: #EBE7DC;
+        --mp-surface: #F7F4EA;
         --mp-ink: #142A32;
         --mp-ink-soft: #4B6067;
         --mp-ocean: #0E7C86;
