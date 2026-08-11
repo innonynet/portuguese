@@ -66,7 +66,8 @@ function buildQuestion(target, direction, words) {
   const field = direction === "w2m" ? "meaning" : "word";
   const distractors = getDistractors(words, target, field, 3);
   const optionSource = shuffle([target, ...distractors]);
-  const options = optionSource.map((w) => ({ rank: w.rank, text: w[field] }));
+  const otherField = field === "meaning" ? "word" : "meaning";
+  const options = optionSource.map((w) => ({ rank: w.rank, text: w[field], secondary: w[otherField] }));
   return { rank: target.rank, direction, item: target, options };
 }
 
@@ -295,7 +296,12 @@ function QuestionCard({ question, onAnswer, selected, revealed }) {
               onClick={() => !revealed && onAnswer(opt.rank)}
               disabled={revealed}
             >
-              <span>{opt.text}</span>
+              <span className="mp-option-main">
+                <span>{opt.text}</span>
+                {revealed && opt.rank !== item.rank && (
+                  <span className="mp-option-secondary">{opt.secondary}</span>
+                )}
+              </span>
               {revealed && opt.rank === item.rank && <Check size={18} />}
               {revealed && opt.rank === selected && opt.rank !== item.rank && <X size={18} />}
             </button>
@@ -661,6 +667,9 @@ function MilPalavrasStyles() {
       .mp-option.wrong { border-color: var(--mp-coral); background: #FCEAEB; color: var(--mp-coral-dark); font-weight: 700; }
       .mp-option.dim { opacity: 0.5; }
       .mp-option:disabled { cursor: default; }
+      .mp-option-main { display: flex; flex-direction: column; align-items: flex-start; gap: 2px; }
+      .mp-option-secondary { font-size: 12px; font-weight: 400; color: var(--mp-ink-soft); }
+      .mp-option.wrong .mp-option-secondary, .mp-option.dim .mp-option-secondary { color: inherit; opacity: 0.75; }
 
       .mp-reveal { margin-top: 16px; border-radius: 16px; padding: 18px 18px 16px; border: 1.5px solid var(--mp-line); }
       .mp-reveal.is-correct { background: #F0FAF2; border-color: #BFE6C7; }
